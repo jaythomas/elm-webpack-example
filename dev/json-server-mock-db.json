@@ -1,0 +1,19 @@
+{
+  "players": [
+    {
+      "id": "eef81fcf-28e7-4964-aaea-731827f2a670",
+      "name": "Jay",
+      "level": 1
+    },
+    {
+      "id": "25c9ecd6-1138-438f-ad4c-cfcd188e549d",
+      "name": "Kevin",
+      "level": 3
+    },
+    {
+      "id": "ac7dfccb-7919-4301-894d-093f973719ca",
+      "name": "Logan",
+      "level": 2
+    }
+  ]
+}
