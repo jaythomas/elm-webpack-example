@@ -10,5 +10,9 @@ type alias Model =
 
 initialModel : Model
 initialModel =
-    { players = [ Player 1 "Sam" 1 ]
-    }
+    { players = [] }
+
+
+
+--{ players = [ Player "862deb03-939c-4699-b57a-d801d70999c3" "Frank" 4 ]
+--}
